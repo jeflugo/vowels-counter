@@ -14,7 +14,7 @@ const Footer = () => (
 		</span>
 		<span>
 			<a
-				href='https://github.com/jeflugo/todo-list-react-ts'
+				href='https://github.com/jeflugo/vowels-counter'
 				target='blank'
 				title='Go to Github'
 			>
