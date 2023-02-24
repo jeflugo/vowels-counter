@@ -15,7 +15,7 @@ function App() {
 
 	return (
 		<main className='main-container mx-auto'>
-			<h1>Vowels Counter</h1>
+			<h1>Vowels Counter PRO</h1>
 			<VowelsForm setVowels={setVowels} />
 			<Result vowels={vowels} />
 			<Footer />
